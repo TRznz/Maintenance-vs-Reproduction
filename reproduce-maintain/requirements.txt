@@ -1,0 +1,6 @@
+# Versions the poster figures were produced with; newer versions will likely work.
+mesa[viz]==3.5.2
+solara==1.66.3
+numpy==2.5.3
+pandas==3.0.5
+matplotlib==3.11.2
